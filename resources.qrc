@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/relief_fill" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
