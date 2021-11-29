@@ -17,9 +17,9 @@ about=This plugin runs a fill algorithm over a DEM to extract cells that are eit
 		- the results are very dependent on the quality of the DEM, so make sure to fill the sinks in your DEM before running the plugin
 		- the input coordinates must be in the same CRS as the DEM raster
 		- if the result appears as an empty raster, try to reclassify it as "unique values" in the raster symbology tab
-	This plugin was developed using Plugin Builder and Plugin Reloader. The algorithms were built upon functions found in the following ressources :
+	This plugin was developed using Plugin Builder and Plugin Reloader. The algorithms were built upon bits of code found in the following ressources :
 		- "Learning Geospatial Analysis with Python" (second edition) by Joel Lawhead (for the flood fill algorithm)
-		- Master Degree course material by Nicolas Karasiak (writing/reading rasters with GDAL).
+		- Master Degree course material by Nicolas Karasiak (writing/reading rasters with GDAL)
 	Icon by Icons8 : https://icones8.fr/icon/Av4zJi08KK9C/spotted-patterns.
 
 tracker=http://bugs
