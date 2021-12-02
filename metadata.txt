@@ -22,8 +22,8 @@ about=This plugin runs a fill algorithm over a DEM to extract cells that are eit
 		- Master Degree course material by Nicolas Karasiak (writing/reading rasters with GDAL)
 	Icon by Icons8 : https://icones8.fr/icon/Av4zJi08KK9C/spotted-patterns.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/r-nest/relief-fill
+repository=https://github.com/r-nest/relief-fill
 # End of mandatory metadata
 
 # Recommended items:
