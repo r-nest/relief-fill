@@ -6,7 +6,7 @@ Geoprocessing functions and fill algorithms used in the main script relief_fill.
 
 @author: Nicolas
 """
-import gdal
+from osgeo import gdal
 from math import ceil, isnan
 import numpy as np
 from qgis.gui import QgisInterface, QgsMessageBar
